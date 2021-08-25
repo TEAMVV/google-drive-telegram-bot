@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "1971110044:AAGDm0eIf4Bee-Aal6jx-TKUJGCvbZAOwmg"
     APP_ID = "1753636"
     API_HASH = "2b7ccd249c487e794eca511b8e819c9a"
-    DATABASE_URL = "postgres://nxuhehtfeewvbw:06036f6128ea4e980aa2578107a91afb7cf903a6f6ab33410417b5ab7d2597a5@ec2-107-22-245-82.compute-1.amazonaws.com:5432/dci7jfgnibkbqt"
+    DATABASE_URL = "postgres://ogudgnrolhwilk:cbcc1e8063c89d5ca3d5eb60fffd5feb09dfc3027a6d6c4e91519d0220e23b1d@ec2-54-159-35-35.compute-1.amazonaws.com:5432/dash6ppbampoj6"
     SUDO_USERS = "628043464" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/MasterTrick2"
     DOWNLOAD_DIRECTORY = "./downloads/"
